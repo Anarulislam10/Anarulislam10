@@ -5,7 +5,7 @@
 
 Being a Python Programmer. Data-Driven Machine Learning Engineer with a Passion for AI Innovation and Data Science lover. Doing Bacelor of Science ( B.Sc) in Computer Science and Engineer (C.S.E) at Varendra University ( https://vu.edu.bd/) in Bangladesh.
 
-Skills: Python | SQL | HTML | CSS |  PHP
+### Skills: Python | SQL | HTML | CSS |  PHP
 
 - 🌱 I’m currently learning at Science & Machine Learning with Python at AiQuest.org (https://aiquest.org/) 
 - 👯 I’m looking to collaborate on AiQuiest.org 
