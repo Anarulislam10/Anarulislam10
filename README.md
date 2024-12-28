@@ -22,7 +22,7 @@ Being a Python Programmer. Data-Driven Machine Learning Engineer with a Passion 
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Anarulislam10/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/Anarulislam10)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Anarulislam10)  
 
