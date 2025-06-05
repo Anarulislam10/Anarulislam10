@@ -1,4 +1,4 @@
-![Machine Learning Engineer.](https://media.licdn.com/dms/image/v2/D5616AQHSuL70F3Oxrw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715699610169?e=1752710400&v=beta&t=PiU-BGUfSrqwHAO8iM7lHWTxa7kgImOVDcEvHswE3Zk)
+        ![Machine Learning Engineer.](https://media.licdn.com/dms/image/v2/D5616AQHSuL70F3Oxrw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715699610169?e=1752710400&v=beta&t=PiU-BGUfSrqwHAO8iM7lHWTxa7kgImOVDcEvHswE3Zk)
 # As-Salahmu Alaykum, I'm Anarul Islam
 ## Machine Learning Engineer.
 
@@ -14,12 +14,14 @@ Being a Python Programmer. Data-Driven Machine Learning Engineer with a Passion 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anarulislam10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/islamanarul//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100095427528031)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anarul islam)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anarulislam10)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anarul islam&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anarulislam10)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/Anarulislam10)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anarulislam10&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Anarulislam10)
+![GitHub metrics](https://metrics.lecoq.io/Anarulislam10)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Anarulislam10)  
 
 
