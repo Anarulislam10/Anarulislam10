@@ -7,7 +7,7 @@ Being a Python Programmer. Data-Driven Machine Learning Engineer with a Passion 
 
 ### Skills: Python | SQL | HTML | CSS |  PHP
 
-- 🌱 I’m currently learning at Science & Machine Learning with Python at AiQuest.org (https://aiquest.org/) 
+- 🌱 I’m currently learning Data Science & Machine Learning with Python at AiQuest.org (https://aiquest.org/) 
 - 👯 I’m looking to collaborate on AiQuiest.org 
 - 💬 Ask me about Data Science and Machine Learning topic 
 
