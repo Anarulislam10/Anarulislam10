@@ -22,8 +22,6 @@ Being a Python Programmer. Data-Driven Machine Learning Engineer with a Passion 
 
 # 📊 Metrics [<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=280144&theme=dark" alt="" align="right" width="190" height="41">]
 
-![GitHub metrics](📊 Metrics [<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=280144&theme=dark" alt="" align="right" width="190" height="41">]/Anarulislam10)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Anarulislam10)  
 
 
