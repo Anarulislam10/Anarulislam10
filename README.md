@@ -14,6 +14,12 @@ Being a Python Programmer. Data-Driven Machine Learning Engineer with a Passion 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anarulislam10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/islamanarul//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100095427528031)  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anarul islam)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anarul islam&show_icons=true)
+
+![GitHub metrics](https://metrics.lecoq.io/Anarulislam10)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Anarulislam10)
 
 
