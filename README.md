@@ -18,12 +18,4 @@ Being a Python Programmer. Data-Driven Machine Learning Engineer with a Passion 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anarulislam10)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anarulislam10&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Anarulislam10/contributions?format=svg&private=false)  
-
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Anarulislam10)  
-
 
