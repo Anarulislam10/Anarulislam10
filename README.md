@@ -20,6 +20,7 @@ Being a Python Programmer. Data-Driven Machine Learning Engineer with a Passion 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anarulislam10&show_icons=true)  
 
+# 📊 Metrics [<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=280144&theme=dark" alt="" align="right" width="190" height="41">](https://www.producthunt.com/posts/github-metrics?utm_source=badge-featured&utm_medium=badge&utm_source=badge-github-metrics)
 ![GitHub metrics](https://metrics.lecoq.io/Anarulislam10)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Anarulislam10)  
