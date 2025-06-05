@@ -16,6 +16,5 @@ Being a Python Programmer. Data-Driven Machine Learning Engineer with a Passion 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anarulislam10)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anarulislam10)](https://github.com/anuraghazra/github-readme-stats)
 
 
