@@ -1,4 +1,4 @@
- ![Machine Learning Engineer.](https://media.licdn.com/dms/image/v2/D5616AQHSuL70F3Oxrw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715699610169?e=1757548800&v=beta&t=HZMYkZWtsNq8BwrSTo-zzmtxjZ1qesLoXpybp_7WD3o)
+ ![Machine Learning Engineer.](https://media.licdn.com/dms/image/v2/D5616AQHSuL70F3Oxrw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715699610169?e=1760572800&v=beta&t=5YPvZflfYlbpSopZgJRDZd67hmqIxTDAOVc5cwqtn6U)
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) As-Salahmu Alaykum, I'm Anarul Islam 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1FF741&background=3FFF6300&width=437&lines=Machine+learning+engineer+;Ai+Innovative)](https://git.io/typing-svg)
